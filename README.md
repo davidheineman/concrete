@@ -1,3 +1,5 @@
+Replication of [Data-driven material screening of secondary and natural cementitious precursors](https://www.nature.com/articles/s43246-025-00820-4)
+
 ### Setup
 
 ```
